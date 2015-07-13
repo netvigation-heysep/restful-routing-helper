@@ -1,0 +1,21 @@
+{
+  "name": "restful-routing-helper",
+  "description": "Express routing Helper for restful mongoose APIs",
+  "version": "0.0.1",
+  "author": {
+    "name": "Philipp Heyse netvigation GbR",
+    "email": "philipp.heyse@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netvigation-heysep/restful-routing-helper.git"
+  },
+  "keywords": [
+    "mongoose",
+    "model",
+    "schema",
+    "database",
+    "routing",
+    "express"
+  ]
+}
